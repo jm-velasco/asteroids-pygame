@@ -1,4 +1,4 @@
-import pygamea
+import pygame
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT
 from logger import log_state
 from player import Player
