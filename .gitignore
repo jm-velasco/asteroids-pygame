@@ -12,3 +12,7 @@ uv.lock
 
 # Boot.dev logging files
 game_state.jsonl
+game_events.jsonl
+
+#IDE
+.idea/
